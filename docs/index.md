@@ -42,45 +42,50 @@ o&gt;*
 # Requisitos Funcionais
 Registro e Gestão de Faltas:
 
-Capacidade de registrar e monitorar a presença de alunos.
-Selecionar e identificar alunos que faltaram.
-Confirmar manualmente o envio das informações de faltas para o sistema.
+* Capacidade de registrar e monitorar a presença de alunos.
+* Selecionar e identificar alunos que faltaram.
+* Confirmar manualmente o envio das informações de faltas para o sistema.
+  
 Recursos de Acessibilidade:
 
-Compatibilidade com leitores de tela e dispositivos de entrada alternativos.
-Assegurar que todos os usuários possam acessar o sistema facilmente.
-Interface e Usabilidade:
+* Compatibilidade com leitores de tela e dispositivos de entrada alternativos.
+* Assegurar que todos os usuários possam acessar o sistema facilmente.
 
-Desenvolvimento de uma interface intuitiva e fácil de usar.
-Capacidade de os alunos acessarem informações sobre suas próprias notas e faltas.
+* Interface e Usabilidade:
+
+* Desenvolvimento de uma interface intuitiva e fácil de usar.
+* Capacidade de os alunos acessarem informações sobre suas próprias notas e faltas.
+
 Relatórios e Análises:
 
-Geração de relatórios detalhados sobre faltas com filtros por data, série escolar, turma, e professor.
-Relatórios devem permitir análises detalhadas e configuráveis.
+* Geração de relatórios detalhados sobre faltas com filtros por data, série escolar, turma, e professor.
+* Relatórios devem permitir análises detalhadas e configuráveis.
+
 Sistema de Notificações:
 
-Envio automático de notificações por e-mail aos pais e responsáveis sobre as faltas dos alunos.
-Envio de alertas automáticos quando um aluno ultrapassa o limite de faltas permitido.
+* Envio automático de notificações por e-mail aos pais e responsáveis sobre as faltas dos alunos.
+* Envio de alertas automáticos quando um aluno ultrapassa o limite de faltas permitido.
+
 # Requisitos Não-Funcionais
 Desempenho:
 
-Processamento rápido de um alto número de presenças.
-Tempo de resposta para as solicitações deve ser inferior a 1 segundo.
+* Processamento rápido de um alto número de presenças.
+* Tempo de resposta para as solicitações deve ser inferior a 1 segundo.
+
 Segurança e Privacidade:
 
-Criptografia de dados de alunos e professores.
-Conformidade com a Lei Geral de Proteção de Dados (LGPD) e outras regulamentações de proteção de dados e privacidade.
+* Criptografia de dados de alunos e professores.
+* Conformidade com a Lei Geral de Proteção de Dados (LGPD) e outras regulamentações de proteção de dados e privacidade.
+
 Disponibilidade e Recuperação:
 
-Alta disponibilidade do sistema com minimização do tempo de inatividade.
-Realização de backups automáticos a cada 24 horas e capacidade de recuperação completa dos dados em caso de falha.
+* Alta disponibilidade do sistema com minimização do tempo de inatividade.
+* Realização de backups automáticos a cada 24 horas e capacidade de recuperação completa dos dados em caso de falha.
+
 Escalabilidade e Confiabilidade:
 
-Capacidade de suportar um grande número de usuários simultaneamente, adequada para grandes escolas.
-Manutenção de operação constante e confiável, com alta disponibilidade.
-Acessibilidade:
-
-O sistema deve atender às diretrizes de acessibilidade, como WCAG 2.1, para garantir acesso universal.
+* Capacidade de suportar um grande número de usuários simultaneamente, adequada para grandes escolas.
+* Manutenção de operação constante e confiável, com alta disponibilidade.
 
 # Diagrama de Atividades
 
