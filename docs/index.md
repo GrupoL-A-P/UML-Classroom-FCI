@@ -33,10 +33,9 @@
 
 # Descrição do Projeto
 
-*&lt;Este projeto visa desenvolver um sistema unificado de gestão de faltas para a Escola do amanhã, melhorando o controle e acompanhamento da presença de alunos. A acessibilidade é uma prioridade, e para isso, o sistema incluirá recursos como leitores de tela e compatibilidade com dispositivos de entrada alternativos para garantir o acesso a todos os usuários.
+* Este projeto visa desenvolver um sistema unificado de gestão de faltas para a Escola do amanhã, melhorando o controle e acompanhamento da presença de alunos. A acessibilidade é uma prioridade, e para isso, o sistema incluirá recursos como leitores de tela e compatibilidade com dispositivos de entrada alternativos para garantir o acesso a todos os usuários.
 O sistema será projetado para ser intuitivo e eficiente no registro de faltas, além de incluir um módulo de geração de relatórios detalhados. Esses relatórios oferecerão análises detalhadas com filtros e buscas que podem ser configurados por variáveis como data, série escolar, turma, e professor.
 Implementaremos também um sistema de notificações por e-mail, que garantirá que pais e responsáveis sejam informados de forma ágil sobre as ausências dos estudantes.
-o&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 # Requisitos Funcionais
