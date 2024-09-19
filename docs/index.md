@@ -92,8 +92,9 @@ Escalabilidade e Confiabilidade:
 
 
 # Diagrama de Casos de Uso
+![DIagrama_de_casos_de_uso](https://github.com/user-attachments/assets/38f01560-8400-42c1-92dd-1eac88e0a54e)
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+
 
 # Descrição dos Casos de Uso
 
