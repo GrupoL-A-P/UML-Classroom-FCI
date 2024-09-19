@@ -88,7 +88,7 @@ Escalabilidade e Confiabilidade:
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+![Diagrama de Atividades](https://github.com/user-attachments/assets/5c313777-c367-4f75-9e2d-4a50fb4c2dc6)
 
 # Diagrama de Casos de Uso
 
