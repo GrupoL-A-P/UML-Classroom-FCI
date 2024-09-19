@@ -88,7 +88,8 @@ Escalabilidade e Confiabilidade:
 
 # Diagrama de Atividades
 
-![Diagrama de Atividades](https://github.com/user-attachments/assets/5c313777-c367-4f75-9e2d-4a50fb4c2dc6)
+![Diagrama de Atividades](https://github.com/user-attachments/assets/d922b0ee-146a-4a17-9ae4-86b2cef675fb)
+
 
 # Diagrama de Casos de Uso
 
