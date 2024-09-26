@@ -92,7 +92,7 @@ Escalabilidade e Confiabilidade:
 
 
 # Diagrama de Casos de Uso
-![DIagrama_de_casos_de_uso](https://github.com/user-attachments/assets/38f01560-8400-42c1-92dd-1eac88e0a54e)
+![Diagrama Casos de uso](https://github.com/user-attachments/assets/45705ab6-537d-4334-a613-cdbda444e226)
 
 
 
