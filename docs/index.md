@@ -98,7 +98,8 @@ Escalabilidade e Confiabilidade:
 
 # Descrição dos Casos de Uso
 
-![Descrição do comportamento entre os atores/resquisitos](https://github.com/pyoshikuni/pyoshikuni/issues/1#issue-2699785932)
+![image](https://github.com/user-attachments/assets/5cfc9107-9df0-4ee1-9508-daa690f70262)
+
 
 # Diagrama de Sequência
 
