@@ -97,6 +97,18 @@ Escalabilidade e Confiabilidade:
 
 ![image](https://github.com/user-attachments/assets/5cfc9107-9df0-4ee1-9508-daa690f70262)
 
+### Registrar Presença dos Estudantes:
+
+**Agente**: Professor
+
+**Descrição**: O professor faz o registro e acompanha a presença dos estudantes em uma determinada aula ou período.
+
+**Fluxo**:
+1. O professor acessa o sistema.
+2. O sistema exibe a lista de turmas e alunos.
+3. O professor seleciona a turma e marca os alunos presentes.
+4. O sistema salva as presenças dos estudantes.
+
 ### Registrar Ausência do Aluno:
 
 **Agente**: Professor
@@ -108,7 +120,77 @@ Escalabilidade e Confiabilidade:
 2. O sistema exibe a lista de estudantes.
 3. O professor seleciona o estudante que esteve ausente.
 4. O sistema registra a ausência do aluno.
-   
+
+### Confirmar Envio das Ausências:
+
+**Agente**: Professor
+
+**Descrição**: O professor confirma o envio das informações de ausências ao sistema.
+
+**Fluxo**:
+1. O professor acessa a tela de confirmação de ausências.
+2. O sistema exibe a lista de ausências pendentes.
+3. O professor confirma as ausências.
+4. O sistema atualiza o registro oficial das ausências.
+
+### Acessibilidade do Sistema:
+
+**Agente**: Todos os Usuários
+
+**Descrição**: Garantir que o sistema seja acessível para todos os usuários, incluindo aqueles com necessidades especiais.
+
+**Fluxo**:
+1. O usuário acessa o sistema.
+2. O sistema oferece suporte a leitores de tela e dispositivos de entrada alternativos.
+3. O usuário navega pelo sistema sem obstáculos.
+
+### Criação de Relatórios:
+
+**Agente**: Professor/Administrador
+
+**Descrição**: Gerar relatórios completos sobre as ausências dos estudantes.
+
+**Fluxo**:
+1. O professor ou administrador acessa a funcionalidade de relatórios.
+2. O sistema exibe as opções de filtros (data, turma, professor).
+3. O professor ou administrador seleciona os filtros desejados.
+4. O sistema gera o relatório com base nos filtros escolhidos.
+5. O usuário visualiza o relatório gerado.
+
+### Envio de Notificação Automática:
+
+**Agente**: Sistema
+
+**Descrição**: Enviar notificações automáticas aos responsáveis quando o estudante ultrapassar o limite de ausências permitido.
+
+**Fluxo**:
+1. O sistema monitora diariamente o percentual de ausências dos estudantes.
+2. O sistema identifica estudantes que excederam o limite de ausências.
+3. O sistema busca os dados de contato dos responsáveis.
+4. O sistema envia uma notificação por e-mail aos responsáveis.
+
+### Processamento Ágil:
+
+**Agente**: Sistema
+
+**Descrição**: Assegurar um processamento ágil do registro de presenças dos estudantes.
+
+**Fluxo**:
+1. O sistema recebe os dados de presença.
+2. O sistema processa e registra as informações instantaneamente.
+3. O sistema confirma o processamento ao usuário.
+
+### Backups Regulares:
+
+**Agente**: Sistema
+
+**Descrição**: Executar backups automáticos dos dados para garantir segurança e disponibilidade.
+
+**Fluxo**:
+1. O sistema inicia o processo de backup a cada 24 horas.
+2. O sistema cria uma cópia dos dados e armazena de maneira segura.
+3. O sistema registra a conclusão do backup e assegura a recuperação em caso de falhas.
+
 # Diagrama de Sequência
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
