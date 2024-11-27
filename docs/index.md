@@ -97,15 +97,18 @@ Escalabilidade e Confiabilidade:
 
 ![image](https://github.com/user-attachments/assets/5cfc9107-9df0-4ee1-9508-daa690f70262)
 
-# Registrar Presença dos Estudantes:
-* Agente: Professor
-* Descrição: O professor faz o registro e acompanha a presença dos estudantes em uma determinada aula ou período.
-* Fluxo:
-* O professor acessa o sistema.
-* O sistema exibe a lista de turmas e alunos.
-* O professor seleciona a turma e marca os alunos presentes.
-* O sistema salva as presenças dos estudantes
+### Registrar Ausência do Aluno:
 
+**Agente**: Professor
+
+**Descrição**: O professor ou administrador seleciona os estudantes que estiveram ausentes para registro no sistema.
+
+**Fluxo**:
+1. O professor acessa o sistema.
+2. O sistema exibe a lista de estudantes.
+3. O professor seleciona o estudante que esteve ausente.
+4. O sistema registra a ausência do aluno.
+   
 # Diagrama de Sequência
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
