@@ -193,7 +193,7 @@ Escalabilidade e Confiabilidade:
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![diagrama](https://github.com/user-attachments/assets/d87ccfb4-9167-42aa-abe6-d531849f8da1)
 
 # Diagrama de Classes
 
