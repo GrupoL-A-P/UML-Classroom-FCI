@@ -98,13 +98,13 @@ Escalabilidade e Confiabilidade:
 ![image](https://github.com/user-attachments/assets/5cfc9107-9df0-4ee1-9508-daa690f70262)
 
 # Registrar Presença dos Estudantes:
-Agente: Professor
-Descrição: O professor faz o registro e acompanha a presença dos estudantes em uma determinada aula ou período.
-Fluxo:
-O professor acessa o sistema.
-O sistema exibe a lista de turmas e alunos.
-O professor seleciona a turma e marca os alunos presentes.
-O sistema salva as presenças dos estudantes
+* Agente: Professor
+* Descrição: O professor faz o registro e acompanha a presença dos estudantes em uma determinada aula ou período.
+* Fluxo:
+* O professor acessa o sistema.
+* O sistema exibe a lista de turmas e alunos.
+* O professor seleciona a turma e marca os alunos presentes.
+* O sistema salva as presenças dos estudantes
 
 # Diagrama de Sequência
 
