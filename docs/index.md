@@ -90,16 +90,21 @@ Escalabilidade e Confiabilidade:
 
 ![Diagrama de Atividades](https://github.com/user-attachments/assets/d922b0ee-146a-4a17-9ae4-86b2cef675fb)
 
-
 # Diagrama de Casos de Uso
 ![Diagrama Casos de uso](https://github.com/user-attachments/assets/45705ab6-537d-4334-a613-cdbda444e226)
-
-
 
 # Descrição dos Casos de Uso
 
 ![image](https://github.com/user-attachments/assets/5cfc9107-9df0-4ee1-9508-daa690f70262)
 
+# Registrar Presença dos Estudantes:
+Agente: Professor
+Descrição: O professor faz o registro e acompanha a presença dos estudantes em uma determinada aula ou período.
+Fluxo:
+O professor acessa o sistema.
+O sistema exibe a lista de turmas e alunos.
+O professor seleciona a turma e marca os alunos presentes.
+O sistema salva as presenças dos estudantes
 
 # Diagrama de Sequência
 
