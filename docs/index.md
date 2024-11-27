@@ -98,7 +98,7 @@ Escalabilidade e Confiabilidade:
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+[*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*](https://github.com/pyoshikuni/pyoshikuni/issues/1#issue-2699785932)
 
 # Diagrama de Sequência
 
