@@ -197,7 +197,8 @@ Escalabilidade e Confiabilidade:
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![Diagrama_de_Classe](https://github.com/user-attachments/assets/02a0f34e-cd0a-4243-bb7a-bc12b9f81de5)
+
 
 # Diagrama de Estados
 
