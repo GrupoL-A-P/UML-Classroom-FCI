@@ -201,7 +201,8 @@ Escalabilidade e Confiabilidade:
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![Diagrama_de_Estados](https://github.com/user-attachments/assets/ffdd267e-a0ba-4923-ace5-393485316a6a)
+
 
 # Diagrama de Implantação
 
