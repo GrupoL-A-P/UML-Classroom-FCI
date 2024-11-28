@@ -205,7 +205,8 @@ Escalabilidade e Confiabilidade:
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![Implantacao](https://github.com/user-attachments/assets/27d50236-256e-454c-87e7-c49615d21ff1)
+
 
 # Referências
 
